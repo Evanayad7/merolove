@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Product A",
+      "img": "4f0c8843ecad042f0b000013.webp",
+      "price": 10,
+      "description": "Chicken marinated in a spiced yoghurt..."
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "img": "4f0c8843ecad042f0b000013.webp",
+      "price": 10,
+      "description": "Another description for Product B..."
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "img": "4f0c8843ecad042f0b000013.webp",
+      "price": 10,
+      "description": "Yet another description for Product C..."
+    }
+  ]
+  
